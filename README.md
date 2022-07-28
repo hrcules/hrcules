@@ -1,4 +1,4 @@
-**Hi, I'm Hércules!**
+**Hi, I'm Hércules! 👨‍🚀🚀**
 
 ---
 
@@ -15,5 +15,3 @@
 <img align="left" height="20" src="https://raw.githubusercontent.com/hrcules/hrcules/master/images/typescript.png">
 <img align="left" height="20" src="https://raw.githubusercontent.com/hrcules/hrcules/master/images/nodejs.png">
 <img align="left" height="20" src="https://raw.githubusercontent.com/hrcules/hrcules/master/images/react.png">
-
-**🚀 let's rock the future!**
