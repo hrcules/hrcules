@@ -4,9 +4,9 @@
 
 **About me:**
 
-- 💻 I'm web developer
-- ⚛️ JavaScript | NodeJS | React
-- 📚 I'm learning ReactJS
+- 💻 I'm Front-end Developer
+- ⚛️ JavaScript | React | React Native
+- 📚 I'm learning React Native
 - 📫 How to reach me: [my site](https://portfolio-hrcules.vercel.app/), [linkedIn](https://www.linkedin.com/in/hrcules/) or [instagram](https://www.instagram.com/_hrcules_/)
 
 **Languages:**
