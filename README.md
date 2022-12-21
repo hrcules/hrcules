@@ -13,5 +13,4 @@
 
 <img align="left" height="20" src="https://raw.githubusercontent.com/hrcules/hrcules/main/images/javascript.png">
 <img align="left" height="20" src="https://raw.githubusercontent.com/hrcules/hrcules/master/images/typescript.png">
-<img align="left" height="20" src="https://raw.githubusercontent.com/hrcules/hrcules/master/images/nodejs.png">
 <img align="left" height="20" src="https://raw.githubusercontent.com/hrcules/hrcules/master/images/react.png">
