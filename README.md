@@ -4,9 +4,9 @@
 
 **About me:**
 
-- 💻 I'm Front-end Developer
-- ⚛️ JavaScript | React | React Native
-- 📚 I'm learning React Native
+- 💻 I'm Mobile Developer
+- ⚛️ JavaScript | React | React Native | Kotlin
+- 📚 I'm learning React Native and Kotlin
 - 📫 How to reach me: [my site](https://portfolio-hrcules.vercel.app/), [linkedIn](https://www.linkedin.com/in/hrcules/) or [instagram](https://www.instagram.com/_hrcules_/)
 
 **Languages:**
